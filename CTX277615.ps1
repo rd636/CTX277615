@@ -98,7 +98,7 @@ Add-Type -AssemblyName System.Windows.Forms
 
 $Form                            = New-Object system.Windows.Forms.Form
 $Form.ClientSize                 = New-Object System.Drawing.Point(800,800)
-$Form.text                       = "Form"
+$Form.text                       = "CTX277615"
 $Form.TopMost                    = $false
 
 $Label1                          = New-Object system.Windows.Forms.Label
