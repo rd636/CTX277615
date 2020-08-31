@@ -1,7 +1,6 @@
 <#
 	.SYNOPSIS
         Conduct file operations on NetScaler ADC instances via ADM API Proxy.
-        *Requires Powershell v6+ for required REST CustomMethod support.
 
 	.DESCRIPTION
         Uses the API Proxy feature of Application Delivery Manager (ADM) 
